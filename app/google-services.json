@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "870266815837",
+    "project_id": "new-login-c7437",
+    "storage_bucket": "new-login-c7437.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870266815837:android:8dcbf7090026a40cced4b4",
+        "android_client_info": {
+          "package_name": "com.neha.newlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870266815837-r5572dosf5umonlo1ufa6oje32fqe2fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Sihto68627wkNUqBXKJAZTRMu2CKN0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870266815837-r5572dosf5umonlo1ufa6oje32fqe2fb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
